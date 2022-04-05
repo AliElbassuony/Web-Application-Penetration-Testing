@@ -9,7 +9,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/AbdallahHemdan/learningVue)](https://github.com/AbdallahHemdan/learningVue/network)
 [![GitHub stars](https://img.shields.io/github/stars/AbdallahHemdan/learningVue)](https://github.com/AbdallahHemdan/learningVue/stargazers)
 [![GitHub license](https://img.shields.io/github/license/AbdallahHemdan/learningVue)](https://github.com/AbdallahHemdan/learningVue/blob/master/LICENSE)
-[![0%](https://progress-bar.dev/0/?title=Progress)]
+![0%](https://progress-bar.dev/0/?title=Progress)
 
 </div>
 
