@@ -9,7 +9,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/AliElbassuony/Web-Application-Penetration-Testing)](https://github.com/AliElbassuony/Web-Application-Penetration-Testing/network)
 [![GitHub stars](https://img.shields.io/github/stars/AliElbassuony/Web-Application-Penetration-Testing)](https://github.com/AliElbassuony/Web-Application-Penetration-Testing/stargazers)
 [![GitHub license](https://img.shields.io/github/license/AliElbassuony/Web-Application-Penetration-Testing)](https://github.com/AliElbassuony/Web-Application-Penetration-Testing/blob/master/LICENSE)
-[![0%](https://progress-bar.dev/0/?title=Progress)]
+![0%](https://progress-bar.dev/0/?title=Progress)
 
 </div>
 
